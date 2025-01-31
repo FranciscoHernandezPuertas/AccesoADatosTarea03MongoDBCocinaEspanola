@@ -1,4 +1,4 @@
-**0. Insertamos los datos:**
+**0. Insertamos los datos de Lista.json:**
 
 <details>
     <summary>Ver código</summary>
